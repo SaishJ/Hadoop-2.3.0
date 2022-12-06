@@ -1,2 +1,5 @@
-# Hadoop-2.3.0
-Hadoop 2.3.0 configuration files
+### Hadoop-2.3.0
+
+Replace above files in same path
+
+Add the Java JDK loaction in hadoop-env.cmd
